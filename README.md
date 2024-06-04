@@ -13,7 +13,8 @@ HTML5 and CSS3
 
 [Github RePo](https://github.com/ahmedzakariahabib/MiniStore-Website-design)
 
+### Screen shot
 
-
+![Screenshot_22-4-2024_72535_](https://github.com/ahmedzakariahabib/MiniStore-Website-design/assets/109096633/97ce076f-1ac0-431f-a503-14084c7d9c44)
 
 
